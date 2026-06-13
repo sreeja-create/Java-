@@ -27,4 +27,19 @@ import java.util.Scanner;
     }
   }
 -------------
+import java.util.Scanner
+  public  class Swap{
+    public static void main{
+      Scanner sc=new Scanner;
+      int a=5;
+     int b=6;
+        int temp=a;
+        a=b;
+       b=temp;
+
+        System.out.println("a,b="+a,b);
+    }
+  }
+---------
+
 
